@@ -1,12 +1,3 @@
-------------------------------------------------->
----------//          CheatBlox            //-----|
---------//                               //------|
--------//      Made By Stefan#6965      //-------|
-------//                               //--------|
------//   Thanks to all supporters!   //---------|
-------------------------------------------------->
-
-
 repeat wait() until game and workspace and game:IsLoaded()
 if getgenv().CheatBloxRunning then return end
 getgenv().CheatBloxRunning = true
